@@ -1,6 +1,6 @@
 # rviz_light_display
 
-[![Demo](https://media.githubusercontent.com/media/justagist/_assets/refs/heads/main/rviz_light_display/rviz_light_display.gif)](examples/light_display_demo.py)
+[![Demo](.assets/rviz_light_display.gif)](examples/light_display_demo.py)
 
 `rviz_light_display` is a self-contained rviz2 display plugin for status lights.
 
