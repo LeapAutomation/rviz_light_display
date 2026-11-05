@@ -6,7 +6,7 @@
   <description>Self-contained rviz2 plugin for visualizing status lights with fixed poses and runtime state updates.</description>
 
   <maintainer email="saif.sidhik@helloleap.ai">Saif Sidhik</maintainer>
-  <license>Proprietary</license>
+  <license>MIT</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
   <buildtool_depend>rosidl_default_generators</buildtool_depend>
